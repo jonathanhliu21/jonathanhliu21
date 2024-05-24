@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋 I'm Jonathan!
 
-<!--
-**jonathanhliu21/jonathanhliu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming electrical/computer engineering student who is interested in robotics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: C++, Python, Java, JavaScript
+- JS Frameworks: React.js, Vue.js
+- Backend Frameworks: Flask, Django
+- Past Robotics Projects
+  - FRC Team 114 (Eaglestrike) 2024 Season [Robot Code](https://github.com/jonathanhliu21/2024-RobotCode)
+  - [BikeDashboardPlus](https://github.com/jonathanhliu21/BikeDashboardPlus)
+  - [Face Following Robot](https://github.com/jonathanhliu21/FaceFollower)
+  - [Arm Drawing Robot](https://github.com/jonathanhliu21/arm_drawer)
+- LinkedIn: https://linkedin.com/in/jonathanhliu21
